@@ -28,14 +28,6 @@ Web Developer yang berfokus pada pengembangan frontend menggunakan HTML, CSS, da
 </p>
 
 
-##### ☎️Contact
-
-![https://www.instagram.com/vesperxroh?stkn=MXd6Mno3Z25zMjljNg==](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-![tiktok.com/@.oblivionarc](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
-![]
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
