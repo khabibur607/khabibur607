@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 Web Developer yang berfokus pada pengembangan frontend menggunakan HTML, CSS, dan JavaScript. Memiliki ketertarikan besar pada clean code dan pengalaman pengguna (UX).
 
 ##### Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,laravel," />
   </a>
 </p>
 
+##### Play With Me
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
