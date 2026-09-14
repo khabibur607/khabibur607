@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 🌱 Saya Masih Dalam Proses Belajar Laravel Framework
 - ⚡ Fun fact: Saya Pecinta Kuliner
 
-Halo! Saya M. Khabibur R., seorang pelajar SMK Negeri 1 Sayung yang sedang
+Halo! Saya M. Khabibur Rohman, seorang pelajar SMK Negeri 1 Sayung yang sedang
 menekuni dunia pemrograman. Saya tertarik pada pengembangan web, baik
-front-end maupun back-end, dan senang membangun proyek kecil untuk
+front-end, dan senang membangun proyek kecil untuk
 mengasah kemampuan. Saat ini saya sedang belajar HTML, CSS, JavaScript,
-PHP, dan Git. Motto saya: "This Account Masterpiece Programmer" — karena
+PHP, dan Git, dan sedang mendalami laravel. Motto saya: "This Account Masterpiece Programmer" — karena
 setiap baris kode adalah karya yang patut dibanggakan. Terbuka untuk
 kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
 
