@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 Saya Masih Dalam Proses Belajar Laravel Framework
+- ⚡ Fun fact: Saya pecinta kuliner
+
+Web Developer yang berfokus pada pengembangan frontend menggunakan HTML, CSS, dan JavaScript. Memiliki ketertarikan besar pada clean code dan pengalaman pengguna (UX).
 
 ##### Skills
 <p align="center">
@@ -27,8 +30,14 @@ Here are some ideas to get you started:
 
 ##### ☎️Contact
 
-<p align="center">
-![https://instagram.com/vesperxroh](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-</p>
+![https://www.instagram.com/vesperxroh?stkn=MXd6Mno3Z25zMjljNg==](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![tiktok.com/@.oblivionarc](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+![]
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
