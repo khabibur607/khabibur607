@@ -15,18 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### About Me
+
 - 🌱 Saya Masih Dalam Proses Belajar Laravel Framework
 - ⚡ Fun fact: Saya Pecinta Kuliner
 
-Halo! Saya M. Khabibur R., seorang pelajar SMK Negeri 1 Sayung yang sedang
+Halo! Saya M. Khabibur Rohman, seorang pelajar SMK Negeri 1 Sayung yang sedang
 menekuni dunia pemrograman. Saya tertarik pada pengembangan web, baik
-front-end maupun back-end, dan senang membangun proyek kecil untuk
+front-end, dan senang membangun proyek kecil untuk
 mengasah kemampuan. Saat ini saya sedang belajar HTML, CSS, JavaScript,
-PHP, dan Git. Motto saya: "This Account Masterpiece Programmer" — karena
+PHP, dan Git, dan sedang mendalami laravel. Motto saya: "This Account Masterpiece Programmer" — karena
 setiap baris kode adalah karya yang patut dibanggakan. Terbuka untuk
 kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
 
-##### Skills
+#### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,13 +36,13 @@ kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
   </a>
 </p>
 
-##### Hubungi Saya
+#### Contact Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vesperxroh)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@oblivionarc)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281385329482)
 
-##### Play With Me
+#### Play With Me
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibur607/khabibur607/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
