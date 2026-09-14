@@ -28,6 +28,14 @@ Web Developer yang berfokus pada pengembangan frontend menggunakan HTML, CSS, da
   </a>
 </p>
 
+##### Contact Me
+
+### Hubungi Saya
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vesperxroh)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@oblivionarc)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281385329482)
+
 ##### Play With Me
 
 <picture data-importer="pacman">
