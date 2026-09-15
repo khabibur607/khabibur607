@@ -30,11 +30,9 @@ kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
 
 #### Skills
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,laravel," />
   </a>
-</p>
 
 #### Contact Me
 
