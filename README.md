@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
 #### About Me
 
 - 🌱 Saya Masih Dalam Proses Belajar Laravel Framework
@@ -28,18 +28,21 @@ PHP, dan Git, dan sedang mendalami laravel. Motto saya: "This Account Masterpiec
 setiap baris kode adalah karya yang patut dibanggakan. Terbuka untuk
 kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
 
+<hr>
 #### Skills
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,laravel," />
   </a>
 
+<hr>
 #### Contact Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vesperxroh)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@oblivionarc)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281385329482)
 
+<hr>
 #### Play With Me
 
 <picture data-importer="pacman">
