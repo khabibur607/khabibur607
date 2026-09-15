@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
+
 #### About Me
 
 - 🌱 Saya Masih Dalam Proses Belajar Laravel Framework
@@ -29,6 +30,7 @@ setiap baris kode adalah karya yang patut dibanggakan. Terbuka untuk
 kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
 
 <hr>
+
 #### Skills
 
   <a href="https://skillicons.dev">
@@ -36,6 +38,7 @@ kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
   </a>
 
 <hr>
+
 #### Contact Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vesperxroh)
@@ -43,6 +46,7 @@ kolaborasi, diskusi, atau sekadar bertukar ide seputar coding.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281385329482)
 
 <hr>
+
 #### Play With Me
 
 <picture data-importer="pacman">
